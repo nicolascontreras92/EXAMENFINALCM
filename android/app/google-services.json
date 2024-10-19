@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976067132635",
+    "project_id": "examendenicolas0303",
+    "storage_bucket": "examendenicolas0303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976067132635:android:e44ec746cd9d63fa6d60fe",
+        "android_client_info": {
+          "package_name": "com.example.examen_nicolascontreras"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMVat8T3VmhDeCV0Dr0s2W0mO74i7loN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
